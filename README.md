@@ -7,8 +7,11 @@
 <br>
 
 <p>
-<img src="https://raw.githubusercontent.com/codecaps/demo-express-js/master/static/img/logo-code-capsule-primary.svg" width="100" style="margin-right: 2rem; margin-left:2rem">
-<img src="https://raw.githubusercontent.com/codecapsules-io/demo-express-js/master/static/img/express.png" width="100">
+<img src="https://raw.githubusercontent.com/codecaps/demo-express-js/master/static/img/logo-code-capsule-primary.svg" height="60" style="margin-right: 2rem; margin-left:2rem">
+
+<img src="https://raw.githubusercontent.com/codecapsules-io/demo-express-js/master/static/img/express.png" height="50">
+<img style="margin-left: 2rem;" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
 </p>
 
 ----
