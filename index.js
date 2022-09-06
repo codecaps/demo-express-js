@@ -2,6 +2,7 @@ const express = require("express");
 const path = require("path")
 
 const port = process.env.PORT || 3000;
+const host = process.env.HOST || "0.0.0.0";
 
 const app = express();
 
@@ -26,4 +27,4 @@ app.get("/index", (req, res) => {
 });
 
 
-app.listen(port, () => console.log(`Listening on ${port}`));
+app.listen(port, host, () => console.log(`Listening on ${host}:${port}`));

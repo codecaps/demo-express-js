@@ -12,7 +12,9 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<img src="https://raw.githubusercontent.com/codecaps/demo-express-js/master/static/img/logo-code-capsule-primary.svg" height="60" >
+<a href="https://codecapsules.io">
+<img alt="Code capsules link" src="https://raw.githubusercontent.com/codecaps/demo-express-js/master/static/img/logo-code-capsule-primary.svg" height="60" >
+</a>
 &nbsp;
 &nbsp;
 &nbsp;
